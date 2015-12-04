@@ -6,6 +6,16 @@
   "scripts": {
     "test": "test.js"
   },
+  "dependencies": {
+    "express": "latest",
+    "forever": "*",
+    "mongoose": "latest",
+    "connect-mongo": "latest",
+    "cookie-parser": "*",
+    "body-parser": "*",
+    "static-favicon": "*",
+    "express-session":"*",
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/YugalXD/brownbox.git"
