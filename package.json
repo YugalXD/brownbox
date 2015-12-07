@@ -13,8 +13,10 @@
     "connect-mongo": "latest",
     "cookie-parser": "*",
     "body-parser": "*",
-    "static-favicon": "*",
+    "serve-favicon": "*",
     "express-session":"*",
+    "kerberos":"*",
+    "nodemailer":"*"
   },
   "repository": {
     "type": "git",
