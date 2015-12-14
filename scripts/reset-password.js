@@ -19,7 +19,7 @@ var text = [
   link,
   '\n',
   'Thanks,',
-  'The Team'
+  'Brown Box'
 ].join('\n');
 
 mg.loadModels();
